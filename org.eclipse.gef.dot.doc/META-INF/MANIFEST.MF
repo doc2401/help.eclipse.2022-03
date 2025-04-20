@@ -1,0 +1,504 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.gef.dot.doc;singleton:=true
+Bundle-Name: GEF DOT Developer Documentation
+Bundle-Version: 5.1.3.202203080300
+Built-By: jenkins
+Require-Bundle: org.antlr.runtime;bundle-version="[3.2.0,4.0.0)";resolut
+ ion:=optional,org.eclipse.core.runtime;bundle-version="[3.9.0,4.0.0)";r
+ esolution:=optional,org.eclipse.core.filesystem;bundle-version="[1.4.0,
+ 2.0.0)";resolution:=optional,org.eclipse.emf.ecore;bundle-version="[2.9
+ .0,3.0.0)";resolution:=optional,org.eclipse.ui;bundle-version="[3.105.0
+ ,4.0.0)";resolution:=optional,org.eclipse.ui.ide;bundle-version="[3.9.0
+ ,4.0.0)";resolution:=optional,org.eclipse.ui.editors;bundle-version="[3
+ .8.0,4.0.0)";resolution:=optional,org.eclipse.xtext;bundle-version="[2.
+ 7.3,3.0.0)";resolution:=optional,org.eclipse.xtext.ui;bundle-version="[
+ 2.7.3,3.0.0)";resolution:=optional,org.eclipse.xtext.ui.shared;bundle-v
+ ersion="[2.7.3,3.0.0)";resolution:=optional,org.eclipse.xtext.builder;b
+ undle-version="[2.7.3,3.0.0)";resolution:=optional,org.eclipse.gef.grap
+ h;bundle-version="[5.0.0,6.0.0)";resolution:=optional,org.eclipse.gef.l
+ ayout;bundle-version="[5.0.0,6.0.0)";resolution:=optional,org.eclipse.g
+ ef.mvc.fx;bundle-version="[5.0.0,6.0.0)";resolution:=optional,org.eclip
+ se.gef.mvc.fx.ui;bundle-version="[5.0.0,6.0.0)";resolution:=optional,or
+ g.eclipse.gef.zest.fx;bundle-version="[5.0.0,6.0.0)";resolution:=option
+ al,org.eclipse.gef.zest.fx.ui;bundle-version="[5.0.0,6.0.0)";resolution
+ :=optional,org.eclipse.platform.doc.isv;bundle-version="[3.0.0,5.0.0)",
+ org.eclipse.gef.graph.doc;bundle-version="[5.0.0,6.0.0)",org.eclipse.ge
+ f.layout.doc;bundle-version="[5.0.0,6.0.0)",org.eclipse.gef.mvc.doc;bun
+ dle-version="[5.0.0,6.0.0)",org.eclipse.gef.fx.doc;bundle-version="[5.0
+ .0,6.0.0)",org.eclipse.gef.zest.doc;bundle-version="[5.0.0,6.0.0)"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/gef.git;pat
+ h="org.eclipse.gef.dot.doc";commitId=a40ff1d802e7b83f6056d2a66da70317d5
+ 021d85
+Bundle-Vendor: Eclipse GEF
+Created-By: Apache Maven 3.8.3
+Build-Jdk: 1.8.0_202
+
+Name: plugin.xml
+SHA-256-Digest: UIU5aUtAxNp1T1058a2IG/WUFlMJlUToCX91MpqAF3k=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotFontUtil.Font.html
+SHA-256-Digest: FYgZUjJ50vBf/uFPaXyLf9KG1xoVEH7yLxJd2lAUZw8=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotDefaultNodeStyleUtil.html
+SHA-256-Digest: 2Ohm1Czr809QA9GhJvkoBGrfMFaQCalhTbGRLah3jj4=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotGraphViewModule.h
+ tml
+SHA-256-Digest: LUDAf7iOOWdZJVdWhgvRFMq0FtIutLL0OcJtJmYr2JE=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /Dot2ZestGraphCopier.html
+SHA-256-Digest: MP3/iEgi1URGOxJjiAyT65o9iNaSx3cUdp0UaWW26mQ=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: 699ckif87LcranqKV3CM917fi3K/+dyZs0jw53QiDVA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/DotAttributes.html
+SHA-256-Digest: utfQjxZqueqIq6HT9XpiW7ujhbjoYHaQHTsWrlX57PY=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotNodePar
+ t.html
+SHA-256-Digest: 0nGVMwL4Dhv2vTKVulAg3mff0bdDc2y+iDLCoTdT2s0=
+
+Name: reference/api/index-files/index-13.html
+SHA-256-Digest: 9HzIRiQB7EcZIJ++KpRfuxyIFzXG/Sa3ZK6UHIXiuyA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/class-use/DotExtractor.
+ html
+SHA-256-Digest: 8PKP5Hxw4V6AFC2IFOkYotM8JuBP53ZOGFR9qESF8dY=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotRecord
+ BasedNodeStyleUtil.html
+SHA-256-Digest: Fo3xOlihROMTV/j/GlNvwaKk7yEIZXyk58hiWTY0YfI=
+
+Name: reference/api/org/eclipse/gef/dot/internal/DotExecutableUtils.html
+SHA-256-Digest: m95cQ1ItpexjNBzeRUsMNV6CNJ5EdnZqyMo8hHcOHwo=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotFontUt
+ il.SystemFontAccess.html
+SHA-256-Digest: Cl7B4OpNoPYDBovp4AHYsA1SAZ0TS9eMa4fiPWnbGyI=
+
+Name: book.css
+SHA-256-Digest: QPwtoPp5c9sue7lwn8mCA+tlz6fKznetEIlUBEpdsbM=
+
+Name: about.ini
+SHA-256-Digest: dJnpCx3Bbij7WuygdxEHHHdTDeteCiPLA3svbr565Tw=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotClusterStyleUtil.html
+SHA-256-Digest: hS9qugOwwALxaHSsa9YUi3W0fptn7eSbXMubVfpkDjQ=
+
+Name: reference/api/org/eclipse/gef/dot/internal/class-use/DotAttributes
+ .html
+SHA-256-Digest: 6I34Kf4W3gMeP1KecMTHbTA4FdjRFgVWcDOz4R86+Ws=
+
+Name: reference/api/index-files/index-12.html
+SHA-256-Digest: oVbTsrePmH5idrXgKwuyULjJB6vGcJFyzvLQ/j5ULi0=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotGraphVi
+ ew.html
+SHA-256-Digest: WXdhtZ31gMExPpb5+TblTjRsAtqbg+cHY8+76XNCZfM=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: QttrX9sqaM6hOKHOGl4OrOTunOIRNnzFX061nCGgMFw=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/package-use.html
+SHA-256-Digest: hL1Ww94PzroLrWuiWcuMasdrPKdaCNKLnQH3oeats5w=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/package-frame.html
+SHA-256-Digest: zcIO0QuGoeeK3tsWwrUxCgp21C04kgvigs/9NTxcbdU=
+
+Name: reference/api/index-files/index-11.html
+SHA-256-Digest: gecadKHBLpcVHzirrctLgq+lHFwJdwZQSBljKKZ8GYA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotFontUtil.SystemFontAccess.html
+SHA-256-Digest: ZS0HxVSZSWyQTqpF+ADbWO8WP4Q+EP5r/YnV+/l7SW4=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/handlers/package-fra
+ me.html
+SHA-256-Digest: MFYj5+tvAWi0Rg6nNOrCuJ45aLtyROuaaTb0Soy02P8=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotAnchorProvider.ht
+ ml
+SHA-256-Digest: DKHUDnJtveOOYln0AELKY6sqWgtvYQM1wc1dZWAIF1g=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotNodeLab
+ elPart.html
+SHA-256-Digest: 6G+7M/pJXbi8G2pNrM5cvHd2C9K2iKqVGku23Tb3P7Y=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: DsMJoxBI31lW3SzuM7JyfZqkfSMa3+BHoJHYBKfNIl8=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: oB0MDUu98xqrES8hJ8hB4ZlC3qo1j/dVxuJh+Yy+EUg=
+
+Name: reference/api/org/eclipse/gef/dot/internal/DotImport.html
+SHA-256-Digest: s7n/bPDrfMvEl5gK0sbTZMrLcwDpIIzSQAcWkdTf2qE=
+
+Name: toc.xml
+SHA-256-Digest: 4AdeBwfqOKl3gcTrFI0MFU9wEHSpY++P5t3gxB56Tl0=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotFontUtil.html
+SHA-256-Digest: u6vyhskf4qZrGHTzrWVdmkdRRPl6J6ACtN3DJWQf+CA=
+
+Name: reference/api/index-files/index-14.html
+SHA-256-Digest: 08PqIs7XmUvhtbYtddLfmycQdLcnXNDpVYNkQyJxHow=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotFontUt
+ il.html
+SHA-256-Digest: 3a/O0huHtFV3GgRE3SdtvW32G2/vQTsoilX4Y7hmqao=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/Zest2DotA
+ ttributesConverter.html
+SHA-256-Digest: PGlnDxsFV7nePbhPV2s7anVXW5TomoH30qadW43DMk8=
+
+Name: reference/api/org/eclipse/gef/dot/internal/class-use/DotAttributes
+ .Context.html
+SHA-256-Digest: kLVvCE64df67vHtN6p/Pgk6CGQkHWGsWfN25zlISuic=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotHTMLEdg
+ eLabelPart.html
+SHA-256-Digest: UfT6VtyD/CRQy5nspBNmdITdIHFwC98jk+5seTeapHk=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: U6RycwbGLDFTjVdHjZRocpVwWfZlMTznFl20wFvFHRA=
+
+Name: reference/api/index-files/index-15.html
+SHA-256-Digest: zbEeqAnjXu5p4KXKD5ObFonGBURKwH7x07hDSVlDmPA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotColorU
+ til.html
+SHA-256-Digest: 0Cl2v9uAs9Ih3jipmE9bpV0EqTeWhpHqaYpG2YKczrM=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotNodeLayoutBehavio
+ r.html
+SHA-256-Digest: qCfs9TFXjWY2WrPzPcnOGoyj3pvw9XGGTR4xbu/yF3E=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/package-tree.html
+SHA-256-Digest: YXAzwd0h3eoKpSm3WENcwzoCEl/qxs+E+HlLo3Z5/vg=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: PRlUYxktaIifuuVP4ttWlSKM6ZBfVBOALe1DD1iWAOA=
+
+Name: about.mappings
+SHA-256-Digest: /9fgubleF/HPufUvLTbCCLirXJTpIrFu+F6ir1UL0rw=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotBSplin
+ eInterpolator.html
+SHA-256-Digest: 6V1T+WzzoWjRVTjsuMyESZV8RJwxytp7+FfC9+UOySg=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotEdgeLabelPart.htm
+ l
+SHA-256-Digest: SI3liWu70O9VLdrx4uzOnRSzO9hM6c2vS4Og/KCxcjU=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: 68czwVdACa5AFSywS2I+iIwUbDixpKaV27eV8oTZc5I=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotHTMLNodePart.html
+SHA-256-Digest: JZaiqHuutCDU5f+b2SahK8Oty8S+gbH5Xg2lFX7pcCU=
+
+Name: reference/api/org/eclipse/gef/dot/internal/class-use/DotExecutable
+ Utils.html
+SHA-256-Digest: ocAtY4sKLyKqDCLAOFMZ6j1ANLdmljzafPnp1hVz4CQ=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: I/YXp8XPa1kSLSs3kllnGFg+PN/+EijrBckfgcysiM8=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: 3gjt8pGYyF7O9G8DmyVCJGnZ0uzj6jfJwG5MgJjWJoQ=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/handlers/package-sum
+ mary.html
+SHA-256-Digest: t0CK8rB7Mp+kW7QBNeDmXhQWYypT+xfl9J257paglW0=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotContentPartFactor
+ y.html
+SHA-256-Digest: 8d9fEM0sroeZaIDtviKZWWl3LLd9oVd+HUbbJu5Ek8g=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotDefaul
+ tNodeStyleUtil.html
+SHA-256-Digest: kFsHkQ+dlEpOPAs2SSk3Db7zaTiSkpoIV5WiIV97Qxs=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotNodeLay
+ outBehavior.html
+SHA-256-Digest: AAKhbPGzWESTYOJ/SrQbCJBbOOEDOAC5cQ7lGiNDpWA=
+
+Name: reference/api/deprecated-list.html
+SHA-256-Digest: h6we7+1Fo2nb1o02cwFJA97R75PN9HxRuhA9miwu4kE=
+
+Name: reference/api/package-list
+SHA-256-Digest: oe8XeHisazlve1ztYd+OxjJjfQ4hwV1xhKiUCYEtqdI=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotContent
+ PartFactory.html
+SHA-256-Digest: sFKUCNRHzL8BMKtCFAIV1cEZSf+mdsUolv7gBAk+4NU=
+
+Name: reference/wiki/images/dot/components.dot.jpeg
+SHA-256-Digest: JkuXE474cKxTJurJgfCfr0oKqlNYz2qh7pT9UcKRP0M=
+
+Name: reference/api/org/eclipse/gef/dot/internal/DotExtractor.html
+SHA-256-Digest: jK/yAbnbmKMUYuHXkdFUTZO1Hs07F5whnoIn2fkOwdQ=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/package-summary.html
+SHA-256-Digest: KiHwtllpIsgjJldS9ZSoJ23UYwvQjzT2AhzYbcJoyAM=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotNodePart.html
+SHA-256-Digest: 6frDAnT1kQi5lBZAFJ34NO3hChqTE7sQBxDda1x784o=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotHTMLNod
+ eLabelPart.html
+SHA-256-Digest: TXg8TAmXeTNl9Hem/OJdlNiMGX6jp2x9p9Zg0uK3Xdw=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /Zest2DotAttributesConverter.html
+SHA-256-Digest: 07p0qiZYdk29EZzulvhMFz54RufVb+7ORs1bHu3g42w=
+
+Name: reference/api/org/eclipse/gef/dot/internal/class-use/DotFileUtils.
+ html
+SHA-256-Digest: rNmrBmDtN2q9F1l5yUIBzpLfqedxnecEy8T8i7tlPBQ=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotFontUt
+ il.Font.html
+SHA-256-Digest: JoMTUm2gCiNzqp2sUG00H8SinwyOeE+KBckuEn2ZTe8=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotAnchorP
+ rovider.html
+SHA-256-Digest: UjnSShHdFH09zIsucG3Gew2QIy6tzAHL03t+sVeppgg=
+
+Name: reference/api/org/eclipse/gef/dot/internal/package-summary.html
+SHA-256-Digest: OU7/pzrTecPE8FhAGNAlct9WY1mBIJ84YK6veU5bt24=
+
+Name: reference/api/org/eclipse/gef/dot/internal/class-use/DotExport.htm
+ l
+SHA-256-Digest: DTX+fPqN608ReJg06s4cMLwldPM5Rbuj+To5uBBqYNE=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/Dot2ZestA
+ ttributesConverter.html
+SHA-256-Digest: +aRlup4bPTwdcdE4vp8htfx+tyS8bOrh3H1F8qX0opg=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotUiMessages.html
+SHA-256-Digest: 3vthYbN2BF+mWBOkN9g/UQ71QDEMDzwb2r/Fr3Dt4DA=
+
+Name: about.properties
+SHA-256-Digest: 1DPfFu6GCnw7s5HnGIzXasMs/UH2BJ9U8t6F5ZSTZ5E=
+
+Name: reference/api/org/eclipse/gef/dot/internal/package-use.html
+SHA-256-Digest: oXf3gSpkSh0TgnRuzO437Is+P1VUw6mVcgKWsCBcBag=
+
+Name: reference/api/index-files/index-18.html
+SHA-256-Digest: awEAxOip5Z1e+dt98Olbu/MGQhb3QqG4m9NQXgBoQ3Y=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: G9fhf+PVG813X/8Ib2axn8l6L0ZySPOC2DEMaxFMTV4=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotUiMessa
+ ges.html
+SHA-256-Digest: vF+QcXote1ULvRa5R+EDPeSx3JwxtPDuVkxK4vehb1Q=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/package-t
+ ree.html
+SHA-256-Digest: C0HiZSivPOnJAT3Qz/S9CdG3ZPKulOoxEOY3GzVDBnY=
+
+Name: reference/wiki/images/dot/GEF-DOT-root.png
+SHA-256-Digest: vhqgOtJxuTTWJwPPz5rnhFu5m3RP4sykj+kHoTc9JTM=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotHTMLNod
+ ePart.html
+SHA-256-Digest: rOpjnWHSfMdZUn6yBzO7YWqkEGQZLzpzoLY2+KUepSI=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/handlers/package-use
+ .html
+SHA-256-Digest: BrPDsGfsx5RKM9FepQPI3IV2bdBbpE0O/FwcwOQh/lA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotHTMLEdgeLabelPart
+ .html
+SHA-256-Digest: URgDgksdcZRJws4Lh+o2py23hF9ZugfhbZpZRTLiz68=
+
+Name: reference/api/index-files/index-21.html
+SHA-256-Digest: BJGwKebrIaeeWK/6G63qLBI4Ty9nrniA0c1r4MYv8g0=
+
+Name: reference/api/org/eclipse/gef/dot/internal/DotExport.html
+SHA-256-Digest: vOJSErYOppBeiHzja6LEv3/LHhZQxXZJthnVSZHo+ns=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotColorUtil.html
+SHA-256-Digest: 0Rp+oV+FF8TLNRgWKBUhrS0p9p0eKBbO/lcoKqewewY=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/Dot2ZestA
+ ttributesConverter.Options.html
+SHA-256-Digest: gUrijMEgIh1c7qWifiZOhe5f7DuN3p5+eZyPj0hvT88=
+
+Name: reference/api/index-files/index-20.html
+SHA-256-Digest: uruSyC8IsCD9A/c1CS983+dg6AAJ65898O/JwnHdbJA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotNodeSt
+ yleUtil.html
+SHA-256-Digest: o7S/gbGMB6BGjyXxiso8Gsnnwuyio4vzoXER2FWqlg4=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotProperties.html
+SHA-256-Digest: YK60YoNiBJkCRC4lkODJ8VmoJC2batfvv0BvmBrj0G8=
+
+Name: reference/api/index-files/index-19.html
+SHA-256-Digest: wY+DKtqlzoomcJ86FhU4G6nOKL6dfF7nXVrbMgWql78=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotNodeStyleUtil.html
+SHA-256-Digest: ENdsnifC+W7vsvy9PJaSKM4h4kLljtn6scFrCfuqln0=
+
+Name: reference/wiki/DOT-toc.xml
+SHA-256-Digest: dNDVm6tX8VBG+pEoxxc22bDQFJV6ml+aPmZBtDaqcGA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotGraphView.html
+SHA-256-Digest: PEaMwMV/KPKUKPOCmnu/Vaoyu8T7fF2HjK7vLbp06Do=
+
+Name: reference/api/org/eclipse/gef/dot/internal/class-use/DotImport.htm
+ l
+SHA-256-Digest: mUyqCMJaTv8cGQkPTkRTyPA6L7hQ5IFEWYNxvmWZ/uY=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotPropert
+ ies.html
+SHA-256-Digest: 9kEDVyguy2JhsOVjHk0BQPeO9DJwGuAA1EgFDrAAn6U=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: ew95yvuUeZJC1mPjyPcf2AafVQUDfsxG4Fo0USSeXiA=
+
+Name: reference/api/script.js
+SHA-256-Digest: UGOTFhtpJWj1iNaL6uz5rV0z8UerrZCdnN4SkY2857c=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotNodeLabelPart.htm
+ l
+SHA-256-Digest: dxKuqp9oQx+OXrVlWNXrW32G+tCNKfUk4O4VgQTLL8s=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotColorI
+ nfo.html
+SHA-256-Digest: pq87NdwVbtZhWmXZzpUF58/0i9rg0+9DitXtrw7ZrO4=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotBSplineInterpolator.html
+SHA-256-Digest: YuAa9IVAn5Fxgga7O8rR6K0pPAGd0ti8zuuVXiVQDKo=
+
+Name: reference/wiki/DOT.html
+SHA-256-Digest: tkO5tOvtfXFgjDNw+ATGzaXG8fscD5vOXo+AEsa1pIM=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /Dot2ZestAttributesConverter.Options.html
+SHA-256-Digest: QysX6SkEr8sH+Vop1pfBELgecmdUVGAcmXCLdj387xQ=
+
+Name: reference/api/org/eclipse/gef/dot/internal/DotAttributes.Context.h
+ tml
+SHA-256-Digest: MhnLBhXjdPGLHPYYFrIY+iGC9iEK9pvGuvJvFy3iZm8=
+
+Name: reference/api/org/eclipse/gef/dot/internal/package-tree.html
+SHA-256-Digest: T1l2CjZfkcYWcj7fm+JGGRbCBPHqnFw2PNpmuCbHo+E=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/package-f
+ rame.html
+SHA-256-Digest: czb+MJ6KSTmTIzMty+5J2LoO0fW4Z2KxbMvBUJwepgg=
+
+Name: reference/api/overview-summary.html
+SHA-256-Digest: +XTWeXPbX+hOuJtrASrUm3DKlCSb9GKMsuwP3/vy8mE=
+
+Name: reference/api/index-files/index-17.html
+SHA-256-Digest: HUZmSDHM7k90h1/4Ngsvi4ZJcaohIHinLa6QsimeDoU=
+
+Name: reference/api/allclasses-frame.html
+SHA-256-Digest: 8SQGmQYS2ycb/FX/W6E2Cok48X8RylNhfR+FIP9IXk0=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotHTMLNodeLabelPart
+ .html
+SHA-256-Digest: Fgp7xrO2KV+qns0TmxevXe2GWE5sY0kq+ljxsV+BR68=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotRecordBasedNodeStyleUtil.html
+SHA-256-Digest: 8G+mUNHuBMhT4NR1zV03+c0Ogb/BFHplganMZOJTgJc=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/handlers/SyncGraphvi
+ zExportHandler.html
+SHA-256-Digest: nhFtC03PE2al2BRcajCl6oBRBL9koCAFzq4ImZHeTvI=
+
+Name: reference/api/allclasses-noframe.html
+SHA-256-Digest: Z3GqeJmO7i3NE9jRigPamRtqoBkOcPZIBg2Eg4eJx/Y=
+
+Name: reference/api/index.html
+SHA-256-Digest: 2jihXYgDanyiFZ+F+64fwQDTbk/3fUmN5dVGak234EM=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/DotEdgeLayoutBehavio
+ r.html
+SHA-256-Digest: DkB3RqwvSuRzUKkCRn6QudGj4GV/mG6EwAIgUXnxQ5E=
+
+Name: reference/api/index-files/index-16.html
+SHA-256-Digest: 7wKPajdTq1jX8+IYuR8EWqOwzxsqpCBrr0qQEmxnW8w=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /DotColorInfo.html
+SHA-256-Digest: wGA6p5WBguRGFdx5v6kk2iT4DL3gCZjVk8K/zhHtBLw=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/handlers/package-tre
+ e.html
+SHA-256-Digest: 8vh/3aTgdLXApjSG5n5S99+NyXcqgQ+rTekgu4cVhCU=
+
+Name: reference/api/org/eclipse/gef/dot/internal/DotFileUtils.html
+SHA-256-Digest: k3PmcwbnmnRAZplJDjq/0HfX5PPOzDM69+Blea8Epd8=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: d1JSQXWcupLZGvMYsHFnrnZZ9ujR3JFvJpkd9GkV47U=
+
+Name: about.html
+SHA-256-Digest: SIo6368v6ECCRmakfWp6tu6+3B/aiqVh/Gus3CAyZtU=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: RB2FibUfknd7XqthewUtgLT7URVrkC/mi2nI+3hCb+U=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: qek6CVDkToBK/7G4Pq0jLM1FkFDZdBrkzM52zsUQlr8=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotGraphVi
+ ewModule.html
+SHA-256-Digest: lYkn/JV1RhfUN790o4coLKetmh2dBd3kq6RQ5/t3rUE=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/package-s
+ ummary.html
+SHA-256-Digest: S7TbTu3bQUCgWpA7wzkGFwuLiv7N1vkZ6FEOGDaLApU=
+
+Name: reference/api/org/eclipse/gef/dot/internal/package-frame.html
+SHA-256-Digest: s5pWRQcCl8xWQRj5XnK8Dv7QeFN1hUNscFbbkbqslMA=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/handlers/class-use/S
+ yncGraphvizExportHandler.html
+SHA-256-Digest: E3C+zRYqWXNQC/rtbVJpmYEqjCvVLTG/LhuUhvymj3s=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotEdgeLay
+ outBehavior.html
+SHA-256-Digest: U3aNZtYrrj4HIWmf8nUP1GHcX/uzPNyjpGJD1p2Q9KE=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/Dot2ZestG
+ raphCopier.html
+SHA-256-Digest: Sy7YnQogj3rjq1tyyEE9WOoA2aSEpjxumyrzIHIeyKI=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/class-use/DotEdgeLab
+ elPart.html
+SHA-256-Digest: gQFl0sMznj0LRmgxVhtxGKSafno7pojDuuQ/n3NH/pM=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: 25l0Dphs+KmlVAHHXm3HpL9CHIrU05N3u6tbS2wcDpE=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/DotCluste
+ rStyleUtil.html
+SHA-256-Digest: /7gC/QA7VdlUk588b6uJ+sqCPpMHr/woNIrTMfd9Ebw=
+
+Name: reference/api/overview-frame.html
+SHA-256-Digest: aS7vMRFhxOBTljeuniY3c/iCn5yW6yjDVdkC50nU0nM=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/package-u
+ se.html
+SHA-256-Digest: v3wrvmzcLVGSAzn28Eqx6jRtJddIIxsAu1GpzIr2Iko=
+
+Name: reference/api/org/eclipse/gef/dot/internal/ui/conversion/class-use
+ /Dot2ZestAttributesConverter.html
+SHA-256-Digest: j7xW35QAHZnf6YTPhlgYrZEF2gKy1swVO23t3UbN7hU=
+

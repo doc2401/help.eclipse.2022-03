@@ -1,0 +1,478 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.gef.cloudio.doc;singleton:=true
+Bundle-Name: GEF Cloudio Developer Documentation
+Bundle-Version: 5.0.2.202203080300
+Built-By: jenkins
+Require-Bundle: org.eclipse.swt;bundle-version="[3.102.0,4.0.0)";resolut
+ ion:=optional,org.eclipse.jface;bundle-version="[3.9.0,4.0.0)";resoluti
+ on:=optional,org.eclipse.ui;bundle-version="[3.105.0,4.0.0)";resolution
+ :=optional,org.eclipse.platform.doc.isv;bundle-version="[3.0.0,5.0.0)"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/gef.git;pat
+ h="org.eclipse.gef.cloudio.doc";commitId=a40ff1d802e7b83f6056d2a66da703
+ 17d5021d85
+Bundle-Vendor: Eclipse GEF
+Created-By: Apache Maven 3.8.3
+Build-Jdk: 1.8.0_202
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/class-use/S
+ mallRect.html
+SHA-256-Digest: a6K95pHcq1F7GSh/yncQLgkdYWLi1sx8Ox9MpgUEY48=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/CloudMatrix
+ .html
+SHA-256-Digest: cJ9wYp+IzwG7syNmi2SnWC6Oe/7snA6Dj8cawZeCCBg=
+
+Name: plugin.xml
+SHA-256-Digest: VeTtUI+HrNGVPseX8lVtN2tM31//jwXBaEtzAfHSZeQ=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: nyiKJSNnnUzMQjdIuE4kJUH85a/7b9nvMMUyhm7OQVE=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/class-use/TagClo
+ ud.html
+SHA-256-Digest: SoGMQvzuB2+t6900TdYgkjdqwLQHpDXP7IUYpIM17Do=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/TagCloud.html
+SHA-256-Digest: vkaL2HCQczPVjI03TnR05RFW050Y0L2GBf4mRoM7aLE=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/ZoomOutAction.html
+SHA-256-Digest: jPH6xDAts9HdcO1RwbQ+t5IJLH3Xj+pKEniesmRZvb0=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/package-frame.ht
+ ml
+SHA-256-Digest: iLcRmslT4qkgsQ4Df39C3EtmoXcaJHaBOnnl1J4wmcs=
+
+Name: reference/api/index-files/index-13.html
+SHA-256-Digest: bmQSUPyx8Bia5FO95O36yzVDoSyLO0CRZAcdZf3F15A=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/class-use/T
+ ypeLabelProvider.Scaling.html
+SHA-256-Digest: FPbuXTWBUnUB7N8eGyTIib7cUkHHjUISY0pXoL5lbOk=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/class-use
+ /ILayouter.html
+SHA-256-Digest: +z3K+SzwK+qpRR32cRrB/z31Lj84rNQfeAqM7HxFtlc=
+
+Name: book.css
+SHA-256-Digest: PCHo4GJ57YZ8taTa9QFq+6K1G9JMU5gkGhE/0Jegbjw=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/package-sum
+ mary.html
+SHA-256-Digest: 9UIpAdxcAy2byjtlBMCD6PfKl8kgzNeEbA9FevLnk20=
+
+Name: about.ini
+SHA-256-Digest: dJnpCx3Bbij7WuygdxEHHHdTDeteCiPLA3svbr565Tw=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/package-f
+ rame.html
+SHA-256-Digest: jO4P/UfvqlSlKlzFZQzkE6s+6kqfuSmJdApiV5JUWHQ=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/TypeLabelPr
+ ovider.html
+SHA-256-Digest: SYHLG6Df7UNf89WPcXsWgKymeDJn5WeQqUavFocFAd4=
+
+Name: reference/api/index-files/index-12.html
+SHA-256-Digest: bd8hvZ0oThuoLwYuLELU2Bi09rqXjIQF4vG+Jw3K5jA=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: cqurX99U1tKaXJfcCQ4rejhQh9yYyKZOlNaHWV2rNbc=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/ExportImageAction.html
+SHA-256-Digest: J6c4WWKME25oRBIayjUb6DIUh3C20nGrWA6qFjtnQos=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/SmallRect.h
+ tml
+SHA-256-Digest: aO45qSq5lorjRDw2VPXlnc6A7ErtpDLb7zzl8Kkp+Y4=
+
+Name: reference/api/index-files/index-11.html
+SHA-256-Digest: vG+CH2Pa7ADBAN+po95yclV9tXTk71D2qEE4gnbPzFg=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/package-tre
+ e.html
+SHA-256-Digest: VAxakpee2XWYXAE9fivLSYAINffDeFPjJANCyN+bXDU=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/class-use/T
+ ype.html
+SHA-256-Digest: NwLqzsUOjG7TqrAzabgZC1FScQwJDNDpJ7wzhuR3lgs=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/ExportIm
+ ageAction.html
+SHA-256-Digest: 8O8OZl2Q4iWolZKxd+qyI3/k+DqneJnD/89CUPQ1XRc=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/package-
+ frame.html
+SHA-256-Digest: 9sb7WoDc1wtHywMPQQAgTpnyBX9C7sil9p5iRtbMuHY=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/package-fra
+ me.html
+SHA-256-Digest: Ytph5P1djCVXZw2FgaofHdB8hYOISB9zBCV4IoHDJH4=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/RectTree.ht
+ ml
+SHA-256-Digest: 5CUEH8jqfoJy+GFbIqS1kxLm4qjvh5WMpnFgdVIjCm8=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: ZPM+z0rprqbS9/iBksdmCamanXgUEthEj6iIyA8RQ78=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: 2XDrRQ7n5PITFBPerbML7A9K2PRhW1Y2bpCwe0PkmUQ=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/package-tre
+ e.html
+SHA-256-Digest: Vq3a/F0ln7RE7rt9nBZ35HLCrMWHfAzcJ9d8/I3rqD4=
+
+Name: toc.xml
+SHA-256-Digest: gWwgVb3cRYmXz94GybhdSjEkw+nC/j/CNK3UECoCdlg=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/ZoomInAction.html
+SHA-256-Digest: iJjR/wA7EQ255F5EH0Fs/EFpz8s7iOAF66YU5mVletM=
+
+Name: reference/api/index-files/index-14.html
+SHA-256-Digest: w6KGDPo/aieMBoW7LPv9u1fwo0PUuZyrAChyi4i2bzQ=
+
+Name: reference/wiki/images/cloudio/GEF-Cloudio-UI-root.png
+SHA-256-Digest: 1lAJOu1q6zqUmX09nzWibmCVcsEp43g+R2ZRyJnfywU=
+
+Name: reference/wiki/Cloudio-toc.xml
+SHA-256-Digest: ETysZGwACloIickWhAZ6hDYptQoqmNNooGtHYTv07GI=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/class-use/ICloud
+ LabelProvider.html
+SHA-256-Digest: 2gnv3MrEuOBO4WSmkwQ9ogky4HIQ4X224DZ6y22ByL0=
+
+Name: reference/wiki/images/cloudio/GEF-Cloudio-UI-layout.png
+SHA-256-Digest: qO40PayOFHcyhJR8lgavUFFuFS70hCrfuFVGdeAvgWw=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: CUJ7bOD1g8k/r8074qzgJa40GUFlmkkMlOvYdDyl8P0=
+
+Name: reference/api/index-files/index-15.html
+SHA-256-Digest: Myncq4/+agbDGIj7aK8TsU26xrSTn7LTJC1Yaa5wXFk=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/ZoomRese
+ tAction.html
+SHA-256-Digest: 7X1A3UpO7wB9SCMnkdxWn5tx4ejM4+tmq5uMmSHEyFs=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/Abstract
+ TagCloudAction.html
+SHA-256-Digest: xv4Flb8ggI4nw2/u6pfwjzhM19ntTiqvanuIzLtkyNA=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/LoadStop
+ WordsAction.html
+SHA-256-Digest: NVmyQIazInLVXO6HxiXJEkOLjADUpVwvJCSjI0wGW6g=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/TagCloudViewer.h
+ tml
+SHA-256-Digest: RM0QgBMVY70QLmYUasclctk5mVPI85RmWW4QAbRxzUA=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/package-use.html
+SHA-256-Digest: 3SouW3zKGTLGtAm0ouh2b//PKjfMOCJxZwUenTYtjec=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/package-fra
+ me.html
+SHA-256-Digest: SuCeVxW2it/fv82E1mdREUgPfyJKVV7K1bUACct3xSU=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/class-use/TagClo
+ udViewer.html
+SHA-256-Digest: XhIO4X4GVQrI3TzZyXtlqkkFazDL20k+ndwF6VGDLy8=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: M3zIA4Tw2nTPuhvCG/11j92kcGbNhBWeBXZRHQCVE/Y=
+
+Name: about.mappings
+SHA-256-Digest: /9fgubleF/HPufUvLTbCCLirXJTpIrFu+F6ir1UL0rw=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/package-fra
+ me.html
+SHA-256-Digest: AKM18pbZBusWnJXCmjg9/cxd4FuStLSdTGmxjH8tIZI=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/CloudioUiBundle.
+ html
+SHA-256-Digest: 34KW3xYE9oblPcST6CAK1s6sqQ4ygJISowXGzbEjW3s=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/package-use
+ .html
+SHA-256-Digest: lHDr7N+DKwDWg0fYJK/swf/2Ktft4XpNT90bc3af3fQ=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: duOTyoxVwd/lN4ZxgHo1pklAllFjApia3dTm92ZmEhI=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/ZoomFitA
+ ction.html
+SHA-256-Digest: yUNigFfnheXpy5OFpOWwYL4nyEzbz2vFcBp+hO+bsQc=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/ILayouter
+ .html
+SHA-256-Digest: ruCkGvXrwNu9/rkFNLLLzcv203jt2kxTYHO3dlgZ2oc=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: MvCbNbK5usHKFNOvEvhdhsXBWP1mCZieJVAbkZtAs00=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/class-use/T
+ ypeCollector.html
+SHA-256-Digest: PvfGHjm/bxP8e7SZECmWC8vYDAKjwtxk0KlivfRgjgI=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: 3gjt8pGYyF7O9G8DmyVCJGnZ0uzj6jfJwG5MgJjWJoQ=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/TypeCollect
+ or.html
+SHA-256-Digest: t7LzU3+B5vYYQOz0rdJLOJQU4vH807wgaox/2hbexcQ=
+
+Name: reference/api/deprecated-list.html
+SHA-256-Digest: gBzV19lxkXu99cJ4bQcOMFlcZ2KZRrpZKW7sxf6poFY=
+
+Name: reference/api/package-list
+SHA-256-Digest: BrCIgorqk/GDMcqR1bZ5l3ZXvjGbr2ZLkHhemmQP5O4=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/ZoomInAc
+ tion.html
+SHA-256-Digest: Mqv1APdS83PmtBn7rbPy9FMINRxuCmD0YbY+2qrukJM=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/data/Type.html
+SHA-256-Digest: IOENN7iOVX/6VJ0KCVy3X9wN6BR7KSuXNh5XjExQGFQ=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/LoadFileAction.html
+SHA-256-Digest: PoCUgdYcgYjBpKUPqm4EXTS79SfTXWdBBcR/gKEtAvM=
+
+Name: reference/wiki/images/cloudio/Zest_cloudio_snippet1.png
+SHA-256-Digest: zyXgMWlU3HNPqJjF8C9SclTh1vUomjCb61C6Ze2ASYk=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/SelectAllAction.html
+SHA-256-Digest: D8MifE7qbQkOKQ1Zw7O71PlWaWOSqz0OMNjVxWVHsxE=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/package-summary.
+ html
+SHA-256-Digest: aaTchJMnq4Nf65mDbqhb0shQ5oFI9sPdGf2jYsmVi50=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/package-s
+ ummary.html
+SHA-256-Digest: jkEADvfYuzom8EWGe6FWmysAxDGr3quf0ccOoxlgKTM=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/class-use/C
+ loudMatrix.html
+SHA-256-Digest: jvUO77DA7L28r+tQ5ZKnrIKAh8qvcil4gDcHP05EzaQ=
+
+Name: about.properties
+SHA-256-Digest: IcjdTgkdfeGN+oRy+O5SIe/cuYckHKHb34K7u+buwmE=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/package-
+ use.html
+SHA-256-Digest: SHW1m3aRG5vYnGCEsiAGjTBCtXQ3zZZvoaLkDIcKUtE=
+
+Name: reference/api/index-files/index-18.html
+SHA-256-Digest: j1ZjE1/zxg5KdaUuV/KLfDAC83m4WQp3+UEBYWoAdQc=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: G9fhf+PVG813X/8Ib2axn8l6L0ZySPOC2DEMaxFMTV4=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/LoadStopWordsAction.html
+SHA-256-Digest: eyd9BXE/4+FuKpP3y67quwxZvsqU4gyK35k8YGgQkUU=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/Word.html
+SHA-256-Digest: rP1usMNs0zv8qwId4xCyMxB2keSQNK00M7K61UXC+lQ=
+
+Name: reference/api/index-files/index-21.html
+SHA-256-Digest: K1Ypc8zA4yiC+E0DjYgX40mtJPojx53TdwVcAlRG0Sk=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/IEditableCl
+ oudLabelProvider.html
+SHA-256-Digest: yJUdDZ7JWH4FZya3W9cOYJxE9NCXaFSs37as5YJ2IuE=
+
+Name: reference/api/index-files/index-20.html
+SHA-256-Digest: yzClF/kCyw/biXv3jfaFhJUYgPpCT2Der6DfpXxql+E=
+
+Name: reference/wiki/images/cloudio/components.cloudio.jpeg
+SHA-256-Digest: wltGfjIbLEi3EeEnlw4zUhLch2WgscQR+fq8oeD8UhI=
+
+Name: reference/api/index-files/index-19.html
+SHA-256-Digest: zw/oHnds0luvYjnpftIehxkpYUpXYW+UiQjon5jGn1E=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/package-
+ tree.html
+SHA-256-Digest: CjW+n3Ed07nFJrPpvmuEs5PiAkaTKpEvVnTO6hxDgP8=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: yTXmFwsqi7VPiK1jYusJgFvsg6Rv74D6TR94rS5Xt0E=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/AbstractTagCloudAction.html
+SHA-256-Digest: DPuXRQGTxWC4/zHmR1c1qMTpikT2LtBevQE4A+rPZFY=
+
+Name: reference/api/script.js
+SHA-256-Digest: UGOTFhtpJWj1iNaL6uz5rV0z8UerrZCdnN4SkY2857c=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/class-use/Cloudi
+ oUiBundle.html
+SHA-256-Digest: QOTeWOq2B1Sk+XK9CqIBWM/lMBtEDSHEY4T2UM7iOb8=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/package-tree.htm
+ l
+SHA-256-Digest: z3cx8EZXKHC2ky+3hHdRVytaKe922db8gItdv54iGs4=
+
+Name: reference/api/index-files/index-22.html
+SHA-256-Digest: X76rLFMCywn72h77gaMwEEd3+7aAizLD9wbdMpFWSt8=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/class-use/R
+ ectTree.html
+SHA-256-Digest: dedY0TOycd6pPMDNEuZnFHuh/bUAxNNrxacoA+rAFlY=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/package-
+ summary.html
+SHA-256-Digest: cc5dS4HzeSefR+fRWg18VCPFSEbnfi9n+C2x277OogI=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/package-u
+ se.html
+SHA-256-Digest: IG6N8/+DZeQgOyT57zJ0l58dQJakYaVPWcRh46MEkUw=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/class-use/Word.h
+ tml
+SHA-256-Digest: Kvz0fUWSvBk4Z1K18E9KDsDcFmkyVddV+MDv/iqpySM=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/ZoomFitAction.html
+SHA-256-Digest: yRWrwVrfiEWwBAe4HZUOIeEXzHYDpCJPJUk1JBCm6m8=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/package-tre
+ e.html
+SHA-256-Digest: EM73lN0w4mFMWDYiSfY7AygtIJPcXoHyMqH+Lme+5sI=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/TypeLabelPr
+ ovider.Scaling.html
+SHA-256-Digest: ZMEQg4HGCYGW43pZYbSDRDM+9Jz6jVLrkWtRs82U1+I=
+
+Name: reference/api/overview-summary.html
+SHA-256-Digest: d74ODwLIsnI3GajVc3/Zjf8fno2XHH+ItleEluYdVjU=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/class-use/T
+ ypeLabelProvider.html
+SHA-256-Digest: lYj8Jh5MrFETobzWQczQIEIjPMQavQ0e/9FFL7jhK4Q=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/ZoomResetAction.html
+SHA-256-Digest: 9xKuu7fZ+kNWbQCl6CnNuc1sVFtFPGz5pWQyxValZJQ=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/package-sum
+ mary.html
+SHA-256-Digest: qA/q/ofhsAQKDnX35l0JOqZtrOV0GLjlodUZ1agGEa0=
+
+Name: reference/api/index-files/index-17.html
+SHA-256-Digest: rS9y5aHt0XYgalTqsuQolV64MCPhE/+q/ypQvVUMxEI=
+
+Name: reference/api/allclasses-frame.html
+SHA-256-Digest: ugqtaDaWMtv2B7AeIEfMk9kzRAVbylEiE/XF5m7QUsY=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/class-use/C
+ loudOptionsComposite.html
+SHA-256-Digest: SAw1c6RFAN/9BU/7LXHUY2sFXOoyBNhYxC9C84LwRgA=
+
+Name: reference/wiki/images/cloudio/GEF-Cloudio-UI-util.png
+SHA-256-Digest: uqnOFJvUkdEEXQtPOB90knkvCTBdxyfBU4/y2vN2+Sk=
+
+Name: reference/api/allclasses-noframe.html
+SHA-256-Digest: 2JTDOqBagnM2DonVDLgToik43MduF7/6ia/XKj6TWKo=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/SelectAl
+ lAction.html
+SHA-256-Digest: CYMm/BOFY2qUomYWnyGrEUreH7imqkNkdHidEN+cpTw=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/package-use
+ .html
+SHA-256-Digest: Iz99kd8pF4f32I/SfSyHr/E+BfPssQ4c9xYfRGxABaI=
+
+Name: reference/api/index.html
+SHA-256-Digest: lkl9IBeBoad/0nWyJY5UarHdsig2DiCIWcFd49vhKhk=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/util/package-use
+ .html
+SHA-256-Digest: pXUKqkHacgFjzqIb8Klr5IYWpZelWlE76hlBN/kQfRA=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/package-t
+ ree.html
+SHA-256-Digest: bZRTPAvhskxbesILXb/ZDXoQWd+ga6p5kUhoTyj4VZ4=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/CloudOption
+ sComposite.html
+SHA-256-Digest: a9WSu5jVDo2M5o1HYqZY+OrhD7v7fB0H6S9z5VpTDq8=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/LoadFile
+ Action.html
+SHA-256-Digest: TIpZM3MuM7YIu68aiNqyRFXjwAsM+/JWX8IEDPg/mTA=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/Deselect
+ AllAction.html
+SHA-256-Digest: 0TcYBJnDc5GkxHKUP4gqxBnjdATRq7cLDYOETNqCV1s=
+
+Name: reference/api/index-files/index-16.html
+SHA-256-Digest: pY7gbZCxPI3edxgi2wNmcyrtOAmCBuskdqfIrChn4ik=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/package-sum
+ mary.html
+SHA-256-Digest: zRCH55USed5BtaSf9FQDP4O7fO+D1Y60NGijcOwtPy0=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/class-use/T
+ agCloudView.html
+SHA-256-Digest: M/7ORb05B1S8GqqCS5UVLZUJznAMomuuU2n9Ak4/5YY=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/class-use
+ /DefaultLayouter.html
+SHA-256-Digest: 8hKDDWhQCdRy/NKeRbCDtTrEBptmH76SGbrv2bR6UjE=
+
+Name: reference/api/index-files/index-23.html
+SHA-256-Digest: Qrhy2LCwsKbPzsq6PUQNCuEs8SnNYrh/OEGG9vtjkuM=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/class-us
+ e/DeselectAllAction.html
+SHA-256-Digest: jxKclx1VjJqywXi9L5YEEmOflGAwvpIS01DU27l4f3M=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/ICloudLabelProvi
+ der.html
+SHA-256-Digest: yNGRlT/hqrutcz2q5fGTgZygjCSDadEOD6zbpbw3TUQ=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: +qESeN5G0Z8rRwxq5m+iKesctMN7of/9WuLCcpBiOgU=
+
+Name: about.html
+SHA-256-Digest: SIo6368v6ECCRmakfWp6tu6+3B/aiqVh/Gus3CAyZtU=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: 7z50k711/437+sunU5IZCXxJQewfFCLVlPTe5f778m8=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/TagCloudVie
+ w.html
+SHA-256-Digest: IOMgPeSRLIcC6NL0mU9xIfuGeayfSihjDbQsA30PXFw=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: mnVExuRLVcVVUPH8giELa7ZboQ8SP2bZuj0nP0UZ3Tk=
+
+Name: reference/wiki/images/cloudio/Zest_cloudio_snippet2.png
+SHA-256-Digest: zLs8017uT5Ch8BWFtMStLde9/XdrpoCtBMOIx/jKjiY=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/actions/ZoomOutA
+ ction.html
+SHA-256-Digest: uU9Xrc4AzG6xuCVJMlcN5TsUT99KuRfGHtbaau6C7JA=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/layout/DefaultLa
+ youter.html
+SHA-256-Digest: /WxrYKF+P70GZDypGsT/NdgatjJWSA9/R0BN3Bzhgo8=
+
+Name: reference/api/org/eclipse/gef/cloudio/internal/ui/view/class-use/I
+ EditableCloudLabelProvider.html
+SHA-256-Digest: NKu20EXlE4Bax3sJoQP8y78DU6dfZg02zKmEFHgVzoI=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: u4ypF5cXVbRsB7SE4FrYZQ2aJxqPrOMHp1wIlXyDbYA=
+
+Name: reference/api/overview-frame.html
+SHA-256-Digest: f8ZVyK7coCwunF6KsXwBNN43udTr/KJn6ui7r/3951w=
+
+Name: reference/wiki/Cloudio.html
+SHA-256-Digest: R3a0QKjX/VykckWhNvtnkP9hgqnUyBrQePra8cFiIEQ=
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.eclipse.cdt</groupId>
+    <artifactId>jsoncdb-parent</artifactId>
+    <version>10.6.0-SNAPSHOT</version>
+  </parent>
+  <artifactId>org.eclipse.cdt.jsoncdb.core.doc</artifactId>
+  <version>1.0.100-SNAPSHOT</version>
+  <packaging>eclipse-plugin</packaging>
+  <name>[bundle] JSON Compilation Database Parser user manual</name>
+  <description>JSON compilation database parser</description>
+  <organization>
+    <name>Eclipse CDT</name>
+  </organization>
+</project>
